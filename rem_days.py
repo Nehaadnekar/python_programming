@@ -5,8 +5,6 @@ if month==1:
 	rem=(31-date)+(365-31)
 elif month==2:
 	rem=(28-date)+(365-31-28)
-elif month==2:
-	rem=(28-date)+(365-31-28)
 elif month==3:
 	rem=(31-date)+(365-31-28-31)
 elif month==4:
